@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
-import { Mail, MapPin, Phone } from 'lucide-react';
+import { MapPin, Phone } from 'lucide-react';
 import { FaInstagram } from 'react-icons/fa';
-import { INSTAGRAM_URL, BAKERY_EMAIL, WHATSAPP_NUMBER, BAKERY_INFO, PHONE_DISPLAY } from '../../data/constants';
+import { INSTAGRAM_URL,WHATSAPP_NUMBER, BAKERY_INFO, PHONE_DISPLAY } from '../../data/constants';
 
 export default function Footer() {
   return (
